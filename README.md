@@ -7,7 +7,7 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
+| Nicholas Valim Uback Tavares | nichvalim2706 | 3A |
 | (nome 2) | @username | 3A |
 | Ântony Marcos Lopes Martins | Tonyboy-777 | 3A |
 
