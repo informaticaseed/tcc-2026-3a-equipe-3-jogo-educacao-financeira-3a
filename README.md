@@ -8,7 +8,7 @@
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
 | Nicholas Valim Uback Tavares | nichvalim2706 | 3A |
-| (nome 2) | @username | 3A |
+| Nicolas MendonçaFerreira | ninifofo| 3A |
 | Ântony Marcos Lopes Martins | Tonyboy-777 | 3A |
 
 **Tema:** (escreva aqui em 1 frase)
