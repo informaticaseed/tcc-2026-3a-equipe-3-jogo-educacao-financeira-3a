@@ -7,18 +7,19 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| Nicholas Valim Uback Tavares | nichvalim2706 | 3A |
-| Nicolas MendonçaFerreira | ninifofo| 3A |
-| Ântony Marcos Lopes Martins | Tonyboy-777 | 3A |
+| Nicholas Valim Uback Tavares  | nichvalim2706          | 3A |
+| Nicolas MendonçaFerreira      | ninifofo               | 3A |
+| Ântony Marcos Lopes Martins   | Tonyboy-777            | 3A |
+| Rafael Xavier Mendes          |Raffaffel               | 3A |
 
-**Tema:** (escreva aqui em 1 frase)
+**Tema:** Jogo Eduacional Sobre Educação Financeira
 **Tecnologia:** Python + Flask + SQLite
 
 ---
 
 ## 🎯 O que o sistema faz
 
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
+O sistema busca ensinar educação financeira com foco nos jovens. Esse conteudo por mais importante que seja é pouco falado e/ou ensinado, então através da criação de um jogo ele pode ser aprendido de uma maneira interessante e divertida pelas próximas gerações
 
 ---
 
