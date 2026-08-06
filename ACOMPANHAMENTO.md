@@ -1,7 +1,7 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Jogo Educativo
+**Turma:** 3A 
+
 
 ---
 
@@ -11,9 +11,18 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Rafael | terminar a parte de animação; iniciar sistema de NPCs |
+| Nicholas Valim | Artes dos personagens: jogador e NPCs (metade das artes)|
+| Antony | Sistema de economia; iniciar o sistema de diálogo |
+| Nicolas Mendonça | Texto do diálogo |
+
+Backlog:
+- Escrita: levantamento dos requisitos e digrama de caso de uso; passar para o formato padrão da escola
+- Arte: mapa e personagens
+- Conteúdo: texto diálogo
+- Programação: funcionamento do jogo
+ 
+
 
 ### Verificação em 08/08
 
