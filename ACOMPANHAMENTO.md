@@ -2,7 +2,6 @@
 **Grupo:** Jogo Educativo
 **Turma:** 3A 
 
-
 ---
 
 ## Quinzena 1 — 27/07 a 08/08
