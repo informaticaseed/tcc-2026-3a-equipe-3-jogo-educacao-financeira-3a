@@ -27,7 +27,7 @@ O sistema busca ensinar educação financeira com foco nos jovens. Esse conteudo
 
 1. **Segunda** — cada integrante abre Issues da semana (use o template "Tarefa Semanal")
 2. **Durante a semana** — trabalham e fazem commits
-3. **Sexta** — o grupo abre 1 Pull Request linkando as Issues concluídas
+3. **Sexta** — o grupo abre 1 Pull Request linkando as Issues concluídas;
 4. **Push** — métricas de participação aparecem automaticamente no Actions
 
 ---
