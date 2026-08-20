@@ -38,13 +38,14 @@ Backlog:
 
 ## Quinzena 2 — 10/08 a 22/08
 
-### Compromissos assumidos em 10/08
+### Compromissos assumidos em 20/08
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Rafael | terminar a parte de animação; iniciar sistema de NPCs |
+| Nicholas Valim | Artes dos personagens: NPCs (metade das artes)|
+| Antony | Sistema de economia; iniciar o sistema de diálogo |
+| Nicolas Mendonça | Texto do diálogo |
 
 ### Verificação em 22/08
 
