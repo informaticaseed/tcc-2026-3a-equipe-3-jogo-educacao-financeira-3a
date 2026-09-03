@@ -62,13 +62,14 @@ Backlog:
 
 ## Quinzena 3 — 24/08 a 05/09
 
-### Compromissos assumidos em 24/08
+### Compromissos assumidos em 03/09
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Rafael | terminar a parte de animação; iniciar sistema de NPCs, Relatório Final |
+| Nicholas Valim | Artes dos personagens: NPCs (metade das artes)|
+| Antony | Sistema de economia; iniciar o sistema de diálogo |
+| Nicolas Mendonça | Texto do diálogo |
 
 ### Verificação em 05/09
 
