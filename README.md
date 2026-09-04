@@ -19,7 +19,7 @@
 
 ## 🎯 O que o sistema faz
 
-O sistema busca ensinar educação financeira com foco nos jovens. Esse conteudo por mais importante que seja é pouco falado e/ou ensinado, então através da criação de um jogo ele pode ser aprendido de uma maneira interessante e divertida pelas próximas gerações
+O sistema busca ensinar educação financeira com foco nos jovens. Esse conteudo por mais importante que seja é pouco falado e/ou ensinado, então através da criação de um jogo ele pode ser aprendido de uma maneira interessante e divertida pelas próximas gerações para que os jovens tenham mais conciencia sobre o que faz com o dinheiro.
 
 ---
 
